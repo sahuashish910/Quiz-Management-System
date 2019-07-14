@@ -1,2 +1,2 @@
 # Quiz-Management-System
- This project provides different categories of quiz to test your knowledge. Each category has 10 questions with four options. So there are total 100 questions to test your knowledge.
+ This project is implemented in C++. There are total 10 categories in the system. Each category consists of 10 questions with four options and you have to choose one of them. After answering of 10 question of a category you will see the marks you scored. And after that you will be able to see the correct answers as well as the answer you enetered. For in-depth detail please watch the video.
